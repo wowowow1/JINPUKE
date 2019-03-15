@@ -1,0 +1,9 @@
+F:\VS2013program\JINPUKE\JINPUKE\bin\Debug\JINPUKE.exe.config
+F:\VS2013program\JINPUKE\JINPUKE\obj\Debug\JINPUKE.csprojResolveAssemblyReference.cache
+F:\VS2013program\JINPUKE\JINPUKE\obj\Debug\JINPUKE.Form1.resources
+F:\VS2013program\JINPUKE\JINPUKE\obj\Debug\JINPUKE.Properties.Resources.resources
+F:\VS2013program\JINPUKE\JINPUKE\obj\Debug\JINPUKE.csproj.GenerateResource.Cache
+F:\VS2013program\JINPUKE\JINPUKE\bin\Debug\JINPUKE.exe
+F:\VS2013program\JINPUKE\JINPUKE\bin\Debug\JINPUKE.pdb
+F:\VS2013program\JINPUKE\JINPUKE\obj\Debug\JINPUKE.exe
+F:\VS2013program\JINPUKE\JINPUKE\obj\Debug\JINPUKE.pdb
